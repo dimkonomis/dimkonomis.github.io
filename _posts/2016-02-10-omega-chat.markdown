@@ -6,6 +6,6 @@ img: omegachat.png
 alt: omegachat
 project-date: February 2016
 category: Android Development
-description: <a href="https://play.google.com/store/apps/details?id=com.dk.omega.chat">Omega Chat</a> is new fast and simple android client for Omegle chat!
+description: <a href="https://play.google.com/store/apps/details?id=com.dk.omega.chat" target="_blank">Omega Chat</a> is a new fast and simple android client for Omegle chat!
 
 ---
