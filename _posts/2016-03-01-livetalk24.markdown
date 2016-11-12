@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2016-03-1
+img: livetalk.png
+alt: livetalk
+project-date: November 2017
+category: Web Development
+description: LiveTalk24 is a new Greek Social Network!Users can create their profiles, chat with each other, through text or video, post their updates and photos. Also, they can read various news from Blog.Built from scratch with MEAN Stack (MongoDB, Express.js, Angular.js, Node.js) and Kurento Media Server.
+
+---
