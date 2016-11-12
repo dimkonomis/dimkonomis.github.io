@@ -6,6 +6,6 @@ img: iremember.jpg
 alt: iremember
 project-date: December 2015
 category: Android - Web Development
-description: iRemember is a Greek Social Network!Built with Joomla and iJoomerSDK.
+description: <a href="https://iremember.gr" target="_blank">iRemember</a> is a Greek Social Network!Built with Joomla and iJoomerSDK.
 
 ---
